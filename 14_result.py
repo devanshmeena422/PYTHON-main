@@ -1,0 +1,19 @@
+Grade = float(input("Enter your number between 1 to 100: "))
+if(Grade>90):
+    print("A++")
+elif(Grade<90):
+    print("A+")
+elif(Grade>80):
+    print("A")
+elif(Grade>70):
+    print("B+")
+elif(Grade>60):
+    print("B")
+elif(Grade>50):
+    print("C+")
+elif(Grade>40):
+    print("C")
+elif(Grade>33):
+    print("C")
+else:
+    print("fail")
