@@ -13,4 +13,4 @@ else:
 if is_prime:
     print("Prime Number")
 else:
-    print("Not a Prime Number")
+    print("Not a Prime Number")36_
